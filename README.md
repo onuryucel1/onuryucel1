@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm  Onur 👋<br><br>       I'm student from Sakarya University Management Information System<br>🌱 I’m currently learning T-SQL<br>🔭 Skills: Python,Excel,T-SQL,SQL<br>📫 How to reach me: onuryucel1242@gmail.com
+Hi there, I'm  Onur 👋<br><br>       I'm student from Sakarya University Management Information System<br>🌱 I’m currently Machine Learning<br>🔭 Skills: Python,Excel,T-SQL,SQL<br>📫 How to reach me: onuryucel1242@gmail.com
 
 
 ## 🌐 Socials:
